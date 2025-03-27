@@ -1,0 +1,26 @@
+#a{
+    width:200px;
+    height:200px;
+    border: 3px;
+    border-color: rgb(214, 86, 46);
+    border-style:double;
+    background:linear-gradient(gray,yellow);
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 180px;
+    background-color: aquamarine;
+    box-shadow: 20px 30px 30px yellowgreen;
+}
+#b{
+    width:200px;
+    height:200px;
+
+    border: 3px;
+    border-color: rgb(3, 56, 70);
+    border-style:outset;
+    background-color: rgb(64, 189, 147);
+    margin-left:180px;
+    margin-top: 60px;
+   
+    box-shadow: 20px 30px 30px rgb(50, 205, 205);
+}
